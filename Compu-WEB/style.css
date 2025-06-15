@@ -1,0 +1,28 @@
+h1{
+    color: cyan;
+    font-family: monospace;
+}
+
+#paragraph p{
+    color: coral;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: decimal;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    background-color: antiquewhite;
+    font-family: Helvetica;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;  
+}
